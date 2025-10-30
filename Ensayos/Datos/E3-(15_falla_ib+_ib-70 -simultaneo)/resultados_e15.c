@@ -1,0 +1,19 @@
+#define PLOT1 -(-ia-ib) 
+#define PLOT2 -ib 
+//#define PLOT2 pi_iQ.Fbk
+#define PLOT3 tita_daf 
+#define PLOT4 tita3
+//#define PLOT2 resALimitador.salida
+//#define PLOT3 resBLimitador.salida
+//#define PLOT4 -(-ia-ib)
+//#define PLOT5 -ib
+#define PLOT5 vel1
+#define PLOT6 omega_filtrada_pu2 
+#define PLOT7 iAEst/I_BASE_A
+#define PLOT8 iBEst/I_BASE_A
+#define PLOT9 vRefAlpBet.Alpha 
+#define PLOT10 vRefAlpBet.Beta 
+#define PLOT11 volt1.DcBusVolt 
+#define PLOT12 (((float)(flagFallaA + flagFallaB*2 + flagFallaw*4))/((float)10.0))
+#define PLOT13 pi_iD.Ref
+#define PLOT14 pi_iQ.Ref
