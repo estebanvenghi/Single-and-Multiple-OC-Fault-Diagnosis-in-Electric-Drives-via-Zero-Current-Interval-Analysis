@@ -1,4 +1,5 @@
 Single and Multiple Open-Switch Fault Diagnosis in Electric Drives via Zero-Current Interval Analysis
+ID 9957
 
 Authors:
 Luis E. Venghi
