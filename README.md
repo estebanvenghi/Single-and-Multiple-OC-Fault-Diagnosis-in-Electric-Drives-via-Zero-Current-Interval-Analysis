@@ -2,16 +2,16 @@ Single and Multiple Open-Switch Fault Diagnosis in Electric Drives via Zero-Curr
 ID 9957
 
 Authors:
-Luis E. Venghi
-Facundo Aguilera 
-Pablo M. de la Barrera
+Luis E. Venghi,
+Facundo Aguilera, 
+Pablo M. de la Barrera,
 Cristian H. De Angelo
 
 Affiliation:
-L.E. Venghi is from Centro de Investigación y Transferencia (CIT) Rafaela, 
+Luis Venghi is from Centro de Investigación y Transferencia (CIT) Rafaela, 
 UNRaf-CONICET, Santa Fe, Argentina. (e-mail: luisesteban.venghi@unraf.edu.ar).
 
-F. Aguilera, P.M. de la Barrera, and C.H. De Angelo are from Grupo de
+Facundo Aguilera, Pablo de la Barrera, and Cristian De Angelo are from Grupo de
 Electrónica Aplicada (GEA), Instituto de Investigaciones en Tecnologías Energéticas y 
 Materiales Avanzados (IITEMA), UNRC-CONICET, Córdoba, Argentina.
 (e-mail: faguilera@ing.unrc.edu.ar; pbarrera@ing.unrc.edu.ar; cdeangelo@ing.unrc.edu.ar).
