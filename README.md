@@ -43,7 +43,7 @@ The file “detection_time.m” reports the fault detection time, expressed as a
 
 Regarding the experiments:
 
-Tests 1 and 2 evaluate the FDI under a sudden change in load torque at constant speed and under a speed variation test with constant load torque, respectively.
+ENSAYO 1 and 2 evaluate the FDI under a sudden change in load torque at constant speed and under a speed variation test with constant load torque, respectively.
 
-Tests 3–5 assess the effectiveness of the proposed FDI strategy in diagnosing different inverter switch fault types.
+ENSAYO 3–5 assess the effectiveness of the proposed FDI strategy in diagnosing different inverter switch fault types.
 
