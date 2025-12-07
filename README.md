@@ -1,5 +1,5 @@
 Single and Multiple Open-Switch Fault Diagnosis in Electric Drives via Zero-Current Interval Analysis
-ID 9957
+ID 9957 - IEEE Latin America Transactions 
 
 Authors:
 Luis E. Venghi,
@@ -30,4 +30,5 @@ Then, execute the file “generico_f.xls.” Finally, run the MATLAB script “g
 along with the documentation available in the “Datos” folder. 
 Note that the “Datos” folder also includes the experimental datasets 
 and the MATLAB script “param_MI_LV.m,” which defines the parameters of the motor used in the experiments.
+
 
