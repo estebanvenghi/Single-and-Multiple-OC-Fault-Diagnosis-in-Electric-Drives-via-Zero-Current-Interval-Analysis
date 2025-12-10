@@ -51,6 +51,6 @@ Note:
 `detection_time.m`: reports the fault detection time, expressed as a percentage of the electrical cycle, as a function of the angular instant at which the fault occurs, for four diagnostic index thresholds: 10%, 25%, 50%, and 75%.
 
 
-#### Comparison with other propolsals
+#### Comparison with other proposals
 
-Folder `Comparison_with_Trabelsi2017` includes the files `test_trabelsi_fig14.mat` and `test_trabelsi_filtered_fig15` with the experimental data required to obtain Fig. 14 and Fig. 15, respectively. 
+Folder `Comparison_with_Trabelsi2017` contains the files `test_trabelsi_fig14.mat` and `test_trabelsi_filtered_fig15` with the experimental data required to obtain Fig. 14 and Fig. 15, respectively. 
