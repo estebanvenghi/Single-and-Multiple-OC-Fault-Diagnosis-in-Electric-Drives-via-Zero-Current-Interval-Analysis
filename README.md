@@ -49,7 +49,7 @@ The file “test_detection_times.m” provides the positive half-cycle of one ph
 
 The file “detection_time.m” reports the fault detection time, expressed as a percentage of the electrical cycle, as a function of the angular instant at which the fault occurs, for four diagnostic index thresholds: 10%, 25%, 50%, and 75%.
 
-#### Experimets snalysis
+#### Experimets analysis
 
 ENSAYO 1 and 2 evaluate the FDI under a sudden change in load torque at constant speed and under a speed variation test with constant load torque, respectively.
 
