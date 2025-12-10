@@ -1,14 +1,16 @@
-Single and Multiple Open-Switch Fault Diagnosis in Electric Drives via Zero-Current Interval Analysis
+# Single and Multiple Open-Switch Fault Diagnosis in Electric Drives via Zero-Current Interval Analysis
 
 ID 9957 - IEEE Latin America Transactions 
 
-Authors:
-Luis E. Venghi,
-Facundo Aguilera, 
-Pablo M. de la Barrera,
-Cristian H. De Angelo
+Experimental data and scripts to reproduce obtained results. 
 
-Affiliation:
+#### Authors:
+- Luis E. Venghi,
+- Facundo Aguilera, 
+- Pablo M. de la Barrera,
+- Cristian H. De Angelo
+
+##### Affiliation:
 Luis Venghi is from Centro de Investigación y Transferencia (CIT) Rafaela, 
 UNRaf-CONICET, Santa Fe, Argentina. (e-mail: luisesteban.venghi@unraf.edu.ar).
 
@@ -17,12 +19,16 @@ Electrónica Aplicada (GEA), Instituto de Investigaciones en Tecnologías Energ�
 Materiales Avanzados (IITEMA), UNRC-CONICET, Córdoba, Argentina.
 (e-mail: faguilera@ing.unrc.edu.ar; pbarrera@ing.unrc.edu.ar; cdeangelo@ing.unrc.edu.ar).
 
-Topic:
+#### Abrtract:
 This work proposes a strategy for fault detection and isolation in inverter switches. 
 The results demonstrate the effectiveness of the proposed diagnosis method under different operating conditions, 
 both with and without inverter switches faults.
 
-Executing:
+
+
+## How to execute:
+
+(Note that MATLAB R2012 or a higher version is required).
 
 1.- To reproduce the results, first run the MATLAB script named “leer_ensayo_X_f.m.” 
 Then, execute the file “generico_f.xls.” Finally, run the MATLAB script “graficar_ENSAYOX_f.m.”
@@ -33,7 +39,7 @@ Note that the “Datos” folder also includes the experimental datasets
 and the MATLAB script “param_MI_LV.m,” which defines the parameters of the motor used in the experiments.
 
 
-**********************************************************************************************************
+## File description
 
 It is noted that the files are characterized as follows:
 
