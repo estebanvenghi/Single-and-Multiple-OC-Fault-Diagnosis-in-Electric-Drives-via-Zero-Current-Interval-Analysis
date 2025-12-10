@@ -1,6 +1,6 @@
 # Single and Multiple Open-Switch Fault Diagnosis in Electric Drives via Zero-Current Interval Analysis
 
--IEEE Latin America Transactions 
+ID 9957 - IEEE Latin America Transactions 
 
 Experimental data and scripts to reproduce obtained results. 
 
