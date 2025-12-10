@@ -29,10 +29,10 @@ both with and without inverter switches faults.
 
 (Note that MATLAB R2012 or a higher version is required).
 
-1.- To reproduce the main results, from `Experimental results` folder, first run the MATLAB script named “leer_ensayo_X_f.m.” 
+1- To reproduce the main results, from `Experimental results` folder, first run the MATLAB script named “leer_ensayo_X_f.m.” 
 Then, execute the file “generico_f.xls.” Finally, run the MATLAB script “graficar_ENSAYOX_f.m.”
 
-2.- For proper execution, make sure to set the working directory to the folder that contains these files, 
+2- For proper execution, make sure to set the working directory to the folder that contains these files, 
 along with the documentation available in the “Datos” folder. 
 Note that the “Datos” folder also includes the experimental datasets 
 and the MATLAB script “param_MI_LV.m,” which defines the parameters of the motor used in the experiments.
