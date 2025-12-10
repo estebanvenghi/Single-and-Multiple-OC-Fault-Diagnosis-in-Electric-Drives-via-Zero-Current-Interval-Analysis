@@ -25,12 +25,11 @@ The results demonstrate the effectiveness of the proposed diagnosis method under
 both with and without inverter switches faults.
 
 
-
 ## How to execute main results:
 
 (Note that MATLAB R2012 or a higher version is required).
 
-1.- To reproduce the main results, first run the MATLAB script named “leer_ensayo_X_f.m.” 
+1.- To reproduce the main results, from `Experimental results` folder, first run the MATLAB script named “leer_ensayo_X_f.m.” 
 Then, execute the file “generico_f.xls.” Finally, run the MATLAB script “graficar_ENSAYOX_f.m.”
 
 2.- For proper execution, make sure to set the working directory to the folder that contains these files, 
